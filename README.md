@@ -17,6 +17,16 @@ A simple website to showcase your portfolio, built with Next.js.
 
 ![Screenshot of the homepage](https://github.com/user-attachments/assets/87029057-179d-4a94-a19b-040a96407b64)
 
+## IconButton Component
+
+There is a custom IconButton component that you can use.<br/>You can define icons that are available in [DevIcons](https://devicon.dev). Here's one way you can use it:
+
+```html
+<IconButton text="Ionic" icon="ionic" href="https://ionicframework.com"/>
+```
+
+You can also use an image instead of an icon in the DevIcons catalogue. Just use `imageURL` instead of `icon` in the component.
+
 ## 🛠️ Running locally
 - Clone this repository
 - Install dependencies with `npm install`
