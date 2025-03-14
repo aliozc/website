@@ -5,7 +5,7 @@ A simple website to showcase your portfolio, built with Next.js.
 ## ✨ Features
 - Simple design that focuses on your background.
 - Rich section of skills, projects, etc.
-- Dark mode based on device preferences.
+- Dark mode based on device preference.
 
 ## 📁 Sections
 - 🗂️ Projects
